@@ -1,23 +1,4 @@
-<h1>Hi, I'm Shree!
+# Hello, I'm Shree Gopalakrishnan!
+<a href="https://www.linkedin.com/in/shree-gopalakrishnan-4b2427214/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/shree-gopalakrishnan-4b2427214/)
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a third year computer science major at the University of California, San Diego (UCSD). My journey in computer science has lef me to develop a passion for Machine Learning, Computer Vision and Neural Networks. I hope to leverage these skills alongside my computer science background to create products that increase automation and efficiency in high throughput workplaces! 
