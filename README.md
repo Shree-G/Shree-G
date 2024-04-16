@@ -5,3 +5,4 @@ I am a third year computer science major at the University of California, San Di
 
 <h2> Computer Vision Projects: </h2>
 - <a href="https://github.com/Shree-G/Lambertian-Photometric-Stereo">Lambertian Photometric Stereo</a>
+- <a href="https://github.com/Shree-G/3D-Image-Rendering">3D Image Rendering</a>
