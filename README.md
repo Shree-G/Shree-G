@@ -9,4 +9,6 @@ I am a third year computer science major at the University of California, San Di
 - <a href="https://github.com/Shree-G/3D-Image-Rendering">3D Image Rendering</a>
 - <a href="https://github.com/Shree-G/Image-Classification-using-Bag-of-Words/">Image Classification using Bag of Words</a>
 
+<h2> Software Development Projects: </h2>
 
+- <a href="https://github.com/CSE-110-Winter-2023/cse-110-project-cse110-team-16/tree/main">Social Compass App</a>
