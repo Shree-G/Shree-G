@@ -14,14 +14,14 @@ I'm currently building an AI-powered shopping app designed to transform how peop
 
 I'm also currently seeking a post-graduation role where I can continue pushing my skills and build end-to-end high-impact products. If you think your company or team could be a great fit, please send me an email at shree.hridai@gmail.com!
 
-<h2> Software Development Projects: </h2>
+<h2> Full Stack: </h2>
 
 - <a href="https://github.com/Shree-G/shrocial_media">Shrocial Media</a>
 - <a href="https://github.com/Shree-G/pokedex">Pokedex</a>
 - <a href="https://github.com/CSE-110-Winter-2023/cse-110-project-cse110-team-16/tree/main">Social Compass App</a>
 
 
-<h2> Computer Vision Projects: </h2>
+<h2> Machine Learning: </h2>
 
 - <a href="https://github.com/Shree-G/Lambertian-Photometric-Stereo">Lambertian Photometric Stereo</a>
 - <a href="https://github.com/Shree-G/3D-Image-Rendering">3D Image Rendering</a>
