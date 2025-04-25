@@ -12,7 +12,7 @@ I strive to be the best full-stack AI software engineer I can become. My goal is
 
 I'm currently building an AI-powered shopping app designed to transform how people discover and choose products. Feel free to reach out if you'd like to collaborate or just chat about AI, tech, or cool projects!
 
-I'm also currently seeking a post-graduation role where I can continue pushing my skills and build end-to-end AI products. If you think your company or team could be a great fit, please send me an email at shree.hridai@gmail.com!
+I'm also currently seeking a post-graduation role where I can continue pushing my skills and build end-to-end high-impact products. If you think your company or team could be a great fit, please send me an email at shree.hridai@gmail.com!
 
 <h2> Software Development Projects: </h2>
 
