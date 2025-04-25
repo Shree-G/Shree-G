@@ -4,7 +4,7 @@
 I'm a fourth-year Computer Science student at UC San Diego, graduating in June 2025. Passionate about creating
  impactful AI-driven web applications.
 
-I strive to be the best full-stack AI software engineer I can become. My goal is to be able to take an AI product vision and turn it into a functional MVP website/app rapidly — ideally within the span of a day. I'm working towards this by building as many AI-integrated full stack projects as possible.
+I strive to be the best full-stack software engineer I can become. My goal is to be able to take a product vision and turn it into a functional MVP website/app rapidly — ideally within the span of a day. I'm working towards this by building as many full stack projects as possible.
 
 ### Personal Development Rules:
 - I don’t use AI tools for something I haven’t manually built before.
