@@ -9,7 +9,7 @@ I'm working as a Full Stack Software Engineer for [iFrog Marketing Solutions](ht
 
 ## AI Engineering:
 
-### Personal RAG Chatbot (in progress!)
+### [Personal RAG Chatbot (in progress!)](https://github.com/Shree-G/shrag)
 
 A full-stack, conversational AI chatbot for my personal website. This RAG (Retrieval-Augmented Generation) pipeline is built from scratch and runs on my professional and personal data, including my resume and GitHub project READMEs (like this one!). It's designed to answer visitor and recruiter questions about my skills, experience, and projects in real-time.
 
@@ -25,7 +25,9 @@ A full-stack, conversational AI chatbot for my personal website. This RAG (Retri
 
 ## Full Stack
 
-### Shrocial Media
+### [Shrocial Media](https://github.com/Shree-G/shrocial_media)
+
+[Live Site](https://shrocial-media.vercel.app/)
 
 A full-stack social media web application that emulates the core functionalities of platforms like Twitter and Instagram. It features secure user authentication, post creation/editing/deletion, and a real-time feed updated with WebSockets. The application is built with a mobile-first, responsive design.
 
@@ -38,7 +40,7 @@ A full-stack social media web application that emulates the core functionalities
 * **Deployment:** Vercel
 * **Core Concepts:** Server-Side Rendering (SSR), Static Site Generation (SSG), Real-Time (WebSockets), User Authentication, Session Management, Responsive Design, ORM
 
-### Restaurant Ordering System
+### [Restaurant Ordering System](https://docs.google.com/presentation/d/1-sTj9QGiLtZRVMBctdWr9pBKAUZ4Sr2-bYvnh19LB0g/edit?slide=id.g2e681b06878_0_338#slide=id.g2e681b06878_0_338)
 
 A web-based, real-time order accuracy system built using a Raspberry Pi to reduce restaurant order errors. The system, housed in a custom 3D-modeled enclosure, provides a "smart tray" with a touchscreen that populates orders, tracks assembly, and provides haptic feedback, processing 10+ concurrent orders with sub-second latency. This project won 2nd place in UCSD’s MVP competition.
 
@@ -48,7 +50,9 @@ A web-based, real-time order accuracy system built using a Raspberry Pi to reduc
 * **Software:** Web-based System, Real-Time Tracking, Database
 * **Core Concepts:** Full Stack Development, IoT (Internet of Things), Real-Time Systems, MVP Development, Hardware Integration, Haptic Feedback, Data Analytics
 
-### Shree's Pokédex
+### [Shree's Pokédex](https://github.com/Shree-G/pokedex)
+
+[Live Site](https://shreespokedex.netlify.app/)
 
 A responsive frontend web application that allows users to browse, search, and view detailed information about Pokémon by fetching data from the public PokeAPI. It features search functionality and detailed views for Pokémon types, abilities, and stats.
 
@@ -61,7 +65,7 @@ A responsive frontend web application that allows users to browse, search, and v
 * **Deployment:** Netlify
 * **Core Concepts:** API Integration, Frontend Development, Responsive Design
 
-### Social Compass App
+### [Social Compass App](https://github.com/CSE-110-Winter-2023/cse-110-project-cse110-team-16/tree/main)
 
 An Android application developed by a 6-person team using an Agile framework. The app allows users to track the location and orientation (direction they are pointing) of friends within a specified radius and includes built-in messaging.
 
@@ -77,7 +81,7 @@ An Android application developed by a 6-person team using an Agile framework. Th
 
 ## Machine Learning
 
-### Lambertian Photometric Stereo
+### [Lambertian Photometric Stereo](https://github.com/Shree-G/Lambertian-Photometric-Stereo)
 
 A project that implements Lambertian Photometric Stereo to estimate the surface normals and albedo of an object. This technique reconstructs surface properties from three or more photos of the object under different, known lighting conditions.
 
@@ -87,7 +91,7 @@ A project that implements Lambertian Photometric Stereo to estimate the surface 
 * **Libraries:** NumPy, Matplotlib (including `mpl_toolkits.mplot3d`), Pickle
 * **Core Concepts:** Lambertian Photometric Stereo, Linear Algebra, Image Data Processing, 3D Visualization, Surface Reconstruction, Depth Maps, Surface Normals
 
-### 3D Image Rendering
+### [3D Image Rendering](https://github.com/Shree-G/3D-Image-Rendering)
 
 A project that renders 3D images by implementing a Lambertian Reflectance Model. It uses two albedo maps and two different light sources to calculate 3D surface normals from heightmaps and apply convolution operations to simulate realistic lighting effects.
 
@@ -97,7 +101,7 @@ A project that renders 3D images by implementing a Lambertian Reflectance Model.
 * **Libraries:** NumPy, SciPy, Matplotlib
 * **Core Concepts:** 3D Image Rendering, Lambertian Reflectance Model, Albedo Maps, Heightmaps, Geometric Transformations, Convolution Operations, 3D Vector Fields, Surface Normals
 
-### Image Classification using Bag of Words
+### [Image Classification using Bag of Words](https://github.com/Shree-G/Image-Classification-using-Bag-of-Words)
 
 A project that implements image classification using the Bag of Words (BoW) model. The process involves extracting SIFT features and interest points, creating a visual dictionary using KMeans clustering, building histogram representations of images, and finally classifying them using a K-Nearest Neighbors (KNN) classifier.
 
