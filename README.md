@@ -11,7 +11,7 @@ I'm working as a Full Stack Software Engineer for [iFrog Marketing Solutions](ht
 
 ### Personal RAG Chatbot (in progress!)
 
-A full-stack, conversational AI chatbot for this personal website. This RAG (Retrieval-Augmented Generation) pipeline is built from scratch and runs on my professional and personal data, including my resume and GitHub project READMEs (like this one). It's designed to answer visitor and recruiter questions about my skills, experience, and projects in real-time.
+A full-stack, conversational AI chatbot for my personal website. This RAG (Retrieval-Augmented Generation) pipeline is built from scratch and runs on my professional and personal data, including my resume and GitHub project READMEs (like this one!). It's designed to answer visitor and recruiter questions about my skills, experience, and projects in real-time.
 
 **Key Technologies & Concepts:**
 * **Role:** Full-Stack AI Engineer
