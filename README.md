@@ -3,7 +3,7 @@
 
 I'm working as a Full Stack Software Engineer for [iFrog Marketing Solutions](https://www.ifrog.com/). Would love to connect and chat about whatever you're building! Reach out!
 
-> **Note:** In case you're wondering, most of my recent projects start with my name — "Shree" — not because I’m a narcissist (I promise), but because it’s a running joke I find hilarious and a small way to show ownership. Shrocial Media, Shrop.AI, Shree’s Pokedex… you get the idea.
+> **Note:** In case you're wondering, most of my recent projects start with my name — "Shree" — not because I’m a narcissist (I promise), but because it’s a running joke I find hilarious and a small way to show ownership. Shrocial Media, Shrag, Shree’s Pokedex… you get the idea.
 
 # Projects
 
