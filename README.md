@@ -9,7 +9,7 @@ I'm working as a Full Stack Software Engineer for [iFrog Marketing Solutions](ht
 
 ## AI Engineering:
 
-### [Personal RAG Chatbot (in progress!)](https://github.com/Shree-G/shrag)
+### [Personal RAG Chatbot](https://github.com/Shree-G/shrag)
 
 A full-stack, conversational AI chatbot for my personal website. This RAG (Retrieval-Augmented Generation) pipeline is built from scratch and runs on my professional and personal data, including my resume and GitHub project READMEs (like this one!). It's designed to answer visitor and recruiter questions about my skills, experience, and projects in real-time.
 
